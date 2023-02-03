@@ -17,6 +17,8 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 ---
 ## IAA Module - Session 2 - SQL and NoSQL Services
 
+**Slides** (Slides and the assignment will be live on March 8th)
+
 * Background starting with Hadoop
 * Intro to Apache Hive
 * Apache Hive Syntax and Schema Design
@@ -26,18 +28,20 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 * Google Cloud Firestore (NoSQL)
 
 **Assignments**
-* [Assignment 1 SQL]()
+* Assignment 1 SQL
   - Due on Wednesday, March 15 by 11:59pm EST
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
-* [Assignment 2 NoSQL]()
+* Assignment 2 NoSQL
   - Due on Wednesday, March 15 by 11:59pm EST
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
+
+**Slides** (Slides and the assignment will be live on March 12th)
 
 * Apache Spark Overview
 * Spark Machine Learning (MLlib)
@@ -48,13 +52,15 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 * Spark Code Walk-through (within Google Colab)
 
 **Assignment**
-* [Assignment 3 - SparkML]()
+* Assignment 3 - SparkML
   - Due on Tuesday, March 21 by 11:59pm
   - Please complete as an individual assignment
   - Email your code to d.zaratsian@gmail.com
 
 ---
 ## IAA Module - Session 4 - Realtime, Streaming Systems
+
+**Slides** (Slides will be live on March 14th)
 
 * Apache Kafka
 * Google PubSub
@@ -66,6 +72,8 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 ---
 ## IAA Module - Session 5 - Cloud Machine Learning
 
+**Slides** (Slides will be live on March 20th)
+
 * Overview of Google Cloud Machine Learning Services
 * [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
 * [AutoML](https://cloud.google.com/automl)
@@ -76,10 +84,12 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 ---
 ## IAA Module - Session 6 - Cloud Services & Serverless
 
+**Slides** (Slides will be live on March 20th)
+
 * Overview of Google Cloud Services
 * [Cloud Functions](https://cloud.google.com/functions)
 * [Cloud Run](https://cloud.google.com/run)
-* [Docker Docs](https://docs.docker.com/)
+* [Docker](https://docs.docker.com/)
 
 ---
 
@@ -101,4 +111,3 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 * [Apache NiFi Docs](https://nifi.apache.org/docs.html)
 * [Docker Docs](https://docs.docker.com/)
 * [Google Deep Learning Containers](https://cloud.google.com/deep-learning-containers/docs/choosing-container)
-
