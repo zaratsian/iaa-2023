@@ -7,10 +7,10 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 
 [**Slides**](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 
-* Introduction and Agenda
-* Distributed Computing
-* Walk-through of Tools and Services
-* Distributed Architectures and Use Cases
+* Intro and Module Agenda
+* Trends in AI/ML
+* Overview of Tools and Services
+* ML Architectures
 * [Google Colab Notebook Environment](https://colab.sandbox.google.com/)
 * [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 
@@ -19,11 +19,8 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 
 **Slides** (Slides and the assignment will be live on March 8th)
 
-* Background starting with Hadoop
-* Intro to Apache Hive
-* Apache Hive Syntax and Schema Design
 * Intro to Apache SparkSQL
-* Apache SparkSQL 
+* Apache SparkSQL
 * BigQuery (Serverless SQL)
 * Google Cloud Firestore (NoSQL)
 
