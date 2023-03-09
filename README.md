@@ -17,7 +17,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 ---
 ## IAA Module - Session 2 - SQL and NoSQL Services
 
-**Slides** (Slides and the assignment will be live on March 8th)
+[**Slides**](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit?usp=sharing)
 
 * Intro to Apache SparkSQL
 * Apache SparkSQL
@@ -25,12 +25,12 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 * Google Cloud Firestore (NoSQL)
 
 **Assignments**
-* Assignment 1 SQL
+* [Assignment 1 SQL](./session_02/Assignment_1_SQL.md)
   - Due on Wednesday, March 15 by 11:59pm EST
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
-* Assignment 2 NoSQL
+* [Assignment 2 NoSQL](./session_02/Assignment_2_NoSQL.ipynb)
   - Due on Wednesday, March 15 by 11:59pm EST
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
