@@ -33,7 +33,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 * [Assignment 2 NoSQL](./session_02/Assignment_2_NoSQL.ipynb)
   - Due on Wednesday, March 15 by 11:59pm EST
   - Please complete as an individual assignment
-  - Email your code and answers to d.zaratsian@gmail.com
+  - No need to email your code for assignment #2 unless you want specific code / syntax feedback. I'll be able to see the submitted results within the Firestore DB.
 
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
