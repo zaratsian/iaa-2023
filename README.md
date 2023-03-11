@@ -38,7 +38,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
 
-**Slides** (Slides and the assignment will be live on March 12th)
+[**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit?usp=sharing)
 
 * Apache Spark Overview
 * Spark Machine Learning (MLlib)
@@ -49,10 +49,10 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 * Spark Code Walk-through (within Google Colab)
 
 **Assignment**
-* Assignment 3 - SparkML
+* [Assignment 3 - SparkML](./session_03/Spark_ML_Assignment_template.ipynb)
   - Due on Tuesday, March 21 by 11:59pm
   - Please complete as an individual assignment
-  - Email your code to d.zaratsian@gmail.com
+  - I will give you instructions on where to submit the code during Monday's session.
 
 ---
 ## IAA Module - Session 4 - Realtime, Streaming Systems
