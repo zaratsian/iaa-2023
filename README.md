@@ -40,48 +40,46 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2023
 
 [**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit?usp=sharing)
 
-* Apache Spark Overview
-* Spark Machine Learning (MLlib)
-* ML Pipelines
+* [Apache Spark](https://spark.apache.org/) Overview
+* Spark Machine Learning ([MLlib](https://spark.apache.org/docs/latest/ml-guide.html))
+* [ML Pipelines](https://spark.apache.org/docs/latest/ml-pipeline.html)
 * Building and deploying Spark machine learning models
 * Considerations for ML in distributed environments
-* Spark Best Practices and Tuning
+* Spark Best Practices and [Tuning](https://spark.apache.org/docs/latest/tuning.html)
 * Spark Code Walk-through (within Google Colab)
 
 **Assignment**
 * [Assignment 3 - SparkML](./session_03/Spark_ML_Assignment_template.ipynb)
   - Due on Tuesday, March 21 by 11:59pm
   - Please complete as an individual assignment
-  - I will give you instructions on where to submit the code during Monday's session.
+  - Email your code to d.zaratsian@gmail.com
 
 ---
-## IAA Module - Session 4 - Realtime, Streaming Systems
+## IAA Module - Session 4 - Cloud Machine Learning
 
-**Slides** (Slides will be live on March 14th)
-
-* Apache Kafka
-* Google PubSub
-* Demo of PubSub
-* Spark Streaming
-* Demo of Spark Streaming
-* Apache Beam (Google Dataflow)
-
----
-## IAA Module - Session 5 - Cloud Machine Learning
-
-**Slides** (Slides will be live on March 20th)
+[**Slides**](https://docs.google.com/presentation/d/11Eu-KjMMDK98c_bMu4qhPhCL4j1wyeOVMiB9bJFONQM/edit?usp=sharing)
 
 * Overview of Google Cloud Machine Learning Services
-* [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
 * [AutoML](https://cloud.google.com/automl)
+* [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
 * [Google Vertex AI Platform](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
 * [Google Vertex Notebooks (Workbench)](https://cloud.google.com/vertex-ai/docs/workbench/introduction)
 * [Google Deep Learning Containers](https://cloud.google.com/deep-learning-containers/docs/choosing-container)
 
 ---
+## IAA Module - Session 5 - Realtime, Streaming Systems
+
+**Slides** (Slides will be live by March 20th)
+
+* [Apache Kafka](https://kafka.apache.org/)
+* [Google PubSub](https://cloud.google.com/pubsub)
+* [Spark Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) and [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
+* [Apache Beam](https://beam.apache.org/) and [Google Dataflow](https://cloud.google.com/dataflow)
+
+---
 ## IAA Module - Session 6 - Cloud Services & Serverless
 
-**Slides** (Slides will be live on March 20th)
+**Slides** (Slides will be live by March 22th)
 
 * Overview of Google Cloud Services
 * [Cloud Functions](https://cloud.google.com/functions)
